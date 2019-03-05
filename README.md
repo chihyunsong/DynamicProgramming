@@ -16,3 +16,9 @@ https://newcoke.blog/recursion-and-dynamic-programming/
 Find the possible maximum values for weight n kg that knpasack can hold.
 
 https://newcoke.blog/knapsack-problem/
+
+# Triple Step Problem
+
+Find the number of possible ways the child can run up the stairs when child can hop either 1,2,3 steps.
+
+https://newcoke.blog/dynamic-programming-triple-steps/
