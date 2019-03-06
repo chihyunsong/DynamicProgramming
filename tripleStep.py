@@ -10,7 +10,6 @@ def tripleStep(n):
     # base case covered.
     # Initialize
     result = [0] * (n+1)
-    result[0] = 0
     result[1] = 1
     result[2] = 2
     result[3] = 4
