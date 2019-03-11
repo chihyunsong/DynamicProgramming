@@ -22,3 +22,16 @@ https://newcoke.blog/knapsack-problem/
 Find the number of possible ways the child can run up the stairs when child can hop either 1,2,3 steps.
 
 https://newcoke.blog/dynamic-programming-triple-steps/
+
+# Recursive Multiply Problem
+
+Solve a multiply question without using operator "*" and uses minimum opearitons by using only addition and bit shifting.
+
+https://newcoke.blog/dynamic-programming-recursive-multiply/
+
+# Hanoi Problem
+
+
+Solve typical hanoi problem using a recursive function.
+
+https://newcoke.blog/ghost/#/editor/5c8586f607a7525009e5512b
