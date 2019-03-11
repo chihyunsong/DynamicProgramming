@@ -34,4 +34,4 @@ https://newcoke.blog/dynamic-programming-recursive-multiply/
 
 Solve typical hanoi problem using a recursive function.
 
-https://newcoke.blog/ghost/#/editor/5c8586f607a7525009e5512b
+https://newcoke.blog/dynamic-programming-tower-of-hanoi/
